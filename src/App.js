@@ -1,4 +1,4 @@
-import moon from './FullMoon.jpg';
+import moon from './Pluto.jpg';
 import './App.css';
 
 function App() {
